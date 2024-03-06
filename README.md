@@ -4,7 +4,7 @@ Fushuma Improvement Proposals (FUMAs) are technical documents describing the cha
 
 ## Contributing
 
-To submit a proposal, clone the repository, add your FUMA using the provided template, and submit a Pull Request to the Callisto Network’s FUMAs repository.
+To submit a proposal, clone the repository, add your FUMA using the provided template, and submit a Pull Request to the Fushuma FUMAs repository.
 
 ## FUMA Status Terms
 
