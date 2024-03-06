@@ -32,7 +32,7 @@ Rewards are given for valuable contributions to the Fushuma Improvement Proposal
 
 ## Community Discussion
 
-This repository tracks Callisto Improvement Proposals. Feature requests, feedback, and issue reports can be submitted via the "issues" section.
+This repository tracks Fushuma Improvement Proposals. Feature requests, feedback, and issue reports can be submitted via the "issues" section.
 
 ### Submitting a Comment
 
