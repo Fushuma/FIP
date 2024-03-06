@@ -37,6 +37,6 @@ This repository tracks Fushuma Improvement Proposals. Feature requests, feedback
 ### Submitting a Comment
 
 1. Register a GitHub account.
-2. Navigate to the [EthereumCommonwealth/FUMA/issues page](https://github.com/EthereumCommonwealth/FUMA/issues).
+2. Navigate to the https://github.com/Fushuma/FUMAIP/issues.
 3. Select the relevant FUMA thread.
 4. Provide feedback and submit a new comment.
