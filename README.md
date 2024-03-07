@@ -1,6 +1,6 @@
-# Fushuma Improvement Proposals (FUMAIPs)
+# Fushuma Improvement Proposals (FIPs)
 
-Fushuma Improvement Proposals (FUMAs) are technical documents describing the changes proposed to the Fushuma protocol. They are reviewed and discussed by core and volunteer developers, and once approved, are implemented.
+Fushuma Improvement Proposals (FIPs) are technical documents describing the changes proposed to the Fushuma protocol. They are reviewed and discussed by core and volunteer developers, and once approved, are implemented.
 
 ## Contributing
 
