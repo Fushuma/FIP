@@ -4,25 +4,25 @@ Fushuma Improvement Proposals (FIPs) are technical documents describing the chan
 
 ## Contributing
 
-To submit a proposal, clone the repository, add your FUMA using the provided template, and submit a Pull Request to the Fushuma FUMAs repository.
+To submit a proposal, clone the repository, add your FIP using the provided template, and submit a Pull Request to the Fushuma FIPs repository.
 
-## FUMA Status Terms
+## FIP Status Terms
 
 - **Idea**: A concept that is pre-draft and not tracked within the FUMA Repository.
-- **Draft**: The first stage of a FUMA, formally tracked once merged into the repository.
-- **Review**: Marks a FUMA ready for peer review.
+- **Draft**: The first stage of a FIP, formally tracked once merged into the repository.
+- **Review**: Marks a FIP ready for peer review.
 - **Last Call**: The final review window before moving to FINAL.
 - **Final**: Represents the final standard.
 - **Stagnant**: Drafts or Reviews inactive for 6+ months.
 - **Withdrawn**: Proposals that have been withdrawn by their authors.
-- **Living**: FUMAs continually updated, without reaching finality.
+- **Living**: FIPs continually updated, without reaching finality.
 
-## FUMA Types
+## FIP Types
 
 - **Standard Track**: Changes affecting most or all Fushuma implementations.
 - **Informational**: Provides guidelines or information without proposing new features.
 
-## Fushuma FUMA Contribution Rewards
+## Fushuma FIP Contribution Rewards
 
 Rewards are given for valuable contributions to the Fushuma Improvement Proposals, as follows:
 
@@ -37,6 +37,6 @@ This repository tracks Fushuma Improvement Proposals. Feature requests, feedback
 ### Submitting a Comment
 
 1. Register a GitHub account.
-2. Navigate to the https://github.com/Fushuma/FUMAIP/issues.
-3. Select the relevant FUMA thread.
+2. Navigate to the https://github.com/Fushuma/FIP/issues.
+3. Select the relevant FIP thread.
 4. Provide feedback and submit a new comment.
