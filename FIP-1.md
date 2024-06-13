@@ -13,7 +13,7 @@ The proposed mechanism aims to establish a self-funded and self-sustained ecosys
 
 ## Motivation
 
-The aim of the Treasury DAO is to support the expansion of the Fushuma ecosystem by leveraging treasury coins for project funding with minimal impact on inflation with respect to the coins in circulation. This proposal addresses key challenges such as market volatility, liquidity limitations, and project valuation accuracy, fostering a self sustained and self funded ecosystem.
+The Treasury DAO aims to support the expansion of the Fushuma ecosystem by leveraging treasury coins for project funding with minimal impact on inflation concerning the coins in circulation. This proposal addresses key challenges such as market volatility, liquidity limitations, and project valuation accuracy, fostering a self-sustained and self-funded ecosystem.
 
 ## Specification
 
@@ -47,7 +47,7 @@ The Treasury DAO consists of two primary pools: the Development Pool and the Liq
 
 ### Augmented Bonding Curve (ABC) Details
 
-- The Reserve Fund operates based on an ABC mechanism, providing price discovery and liquidity management.
+The Reserve Fund operates based on an ABC mechanism, providing price discovery and liquidity management.
 - **Buying Tokens:** As more tokens are bought, the price increases due to higher demand.
 - **Selling Tokens:** As tokens are sold, the price decreases, maintaining balance in the system.
 
@@ -55,9 +55,6 @@ The Treasury DAO consists of two primary pools: the Development Pool and the Liq
 
 The Treasury DAO mechanism provides a sustainable and transparent funding model, addressing the critical issues of market volatility, liquidity, and project valuation. By leveraging ABCs and decentralized governance, the system ensures continuous funding, fair ecosystem valuation, and active community engagement.
 
-## Backwards Compatibility
-
-This propprojectsosal does not affect any existing standards and is fully compatible with existing Ethereum-based protocols and smart contracts.
 
 ## Exact mathematical model, Parameter selection and Implementation
 
