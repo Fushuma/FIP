@@ -1,5 +1,3 @@
-| Field  | Value                                  |
-|--------|----------------------------------------|
 | FIP    | 1                     |
 | Title  | Treasury DAO Mechanism for Fushuma Network |
 | Author | Dr ZS                                  |
