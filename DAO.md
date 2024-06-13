@@ -1,9 +1,12 @@
-FIP: 1
-Title: Treasury DAO Mechanism for Fushuma Network
-Author: Dr ZS
-Status: Idea
-Type: Standard Track
-Created: 2024-06-08
+| Field  | Value                                  |
+|--------|----------------------------------------|
+| FIP    | 1                     |
+| Title  | Treasury DAO Mechanism for Fushuma Network |
+| Author | Dr ZS                                  |
+| Status | Idea                                   |
+| Type   | Standard Track                         |
+| Created| 2024-06-08                             |
+
 
 
 ## Simple Summary
