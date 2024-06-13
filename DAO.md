@@ -1,4 +1,5 @@
-| FIP    | 1                     |
+| FIP    | 1                                       |
+|--------|----------------------------------------|
 | Title  | Treasury DAO Mechanism for Fushuma Network |
 | Author | Dr ZS                                  |
 | Status | Idea                                   |
@@ -6,8 +7,7 @@
 | Created| 2024-06-08                             |
 
 
-
-## Simple Summary
+## Summary
 
 A decentralized and transparent on-chain management model for the Fushuma Treasury. 
 
