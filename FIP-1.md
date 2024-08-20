@@ -45,9 +45,9 @@ The Treasury DAO consists of two primary pools: the Development Pool and the Liq
    - Performed through a Decentralized Autonomous Organization (DAO).
    - The DAO oversees fund allocation and project approvals, ensuring community participation and decentralized control.
 
-### Augmented Bonding Curve (ABC) Details
+### Quadratic Bonding Curve (ABC) Details
 
-The Reserve Fund operates based on an ABC mechanism, providing price discovery and liquidity management.
+The Reserve Fund operates based on an QBC mechanism, providing price discovery and liquidity management.
 - **Buying Tokens:** As more tokens are bought, the price increases due to higher demand.
 - **Selling Tokens:** As tokens are sold, the price decreases, maintaining balance in the system.
 
