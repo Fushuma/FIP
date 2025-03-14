@@ -1,9 +1,10 @@
 ---
-title: Treasury Initial Pre-Sale: Kickstarting Fushuma
-description: Raising $75,000 by selling 75,000,000 FUMA tokens at the price of $0.001 per token. 
-author: "spatialiste" 
+title: Treasury Initial Presale - Kickstarting Fushuma
+description:  Raising $75,000 by selling 75,000,000 FUMA tokens at the price of $0.001 per token.
+author: "@spatialiste" 
 type: Proposal
-initially created: 2024-08-01 - posted in the main branch for consistency
+initially created: 2024-08-01
+posted in the main branch: 2025-03-14
 ---
 
 # Fushuma Improvement Proposal #2 
