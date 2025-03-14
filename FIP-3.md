@@ -9,7 +9,7 @@ created: 2025-03-14
 
 ## Abstract
 
-Fushuma Improvement Proposal 3 (FIP-3) outlines the Initial Coin Offering (ICO) structure for the Fushuma Network’s token sale and specifies the allocation of raised funds into the Treasury DAO mechanism established in FIP-1. The ICO will raise capital through a tiered sale of FUMA tokens, with funds split into two pools: (i) 65% to the Liquidity Reserve Pool and (ii) 35% to the Development Pool. The completion of this offline phase will define the parameters for launching the eXponential Bonding Curve (XBC) mechanism described in FIP-1.
+Fushuma Improvement Proposal 3 (FIP-3) describes the Initial Coin Offering (ICO) structure for the Fushuma Network’s token sale and specifies the allocation of raised funds into the Treasury DAO mechanism established in FIP-1. The ICO will raise capital through a tiered sale of FUMA tokens, with funds split into two pools: (i) 65% to the Liquidity Reserve Pool and (ii) 35% to the Development Pool. The completion of this offline phase will define the parameters for launching the eXponential Bonding Curve (XBC) mechanism described in FIP-1.
 
 ## Motivation
 
