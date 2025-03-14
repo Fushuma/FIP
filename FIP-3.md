@@ -1,10 +1,11 @@
 ---
-**title:** Initial Coin Offering (ICO) and Fund Allocation for Fushuma Treasury DAO  
-**description:** Defines the Initial Coin Offering (ICO) structure for the Fushuma Network’s token sale and the allocation of raised funds into the Treasury DAO mechanism.  
-**author:** "@Dr-ZS"  
-**type:** Review  
-**created:** 2025-03-14  
+title: Initial Coin Offering (ICO) and Fund Allocation for Fushuma Treasury DAO 
+description: Defines the Initial Coin Offering (ICO) structure for the Fushuma Network’s token sale and the allocation of raised funds into the Treasury DAO mechanism.
+author: "@Dr-ZS" 
+type: Review
+created: 2025-03-14  
 ---
+
 
 ## Abstract
 
